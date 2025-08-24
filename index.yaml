@@ -21,7 +21,7 @@ entries:
           description: NodePool is the Schema for the NodePools API.
     apiVersion: v2
     appVersion: 0.35.1
-    created: "2025-08-22T16:09:54.906697-05:00"
+    created: "2025-08-24T10:55:45.711682-05:00"
     description: A Helm chart for Karpenter, an open-source node provisioning project
       built for Kubernetes.
     digest: 961414b302710aba11912d23607b44fa5c036d3eaaed071377f4324c2aef1ba0
@@ -38,6 +38,6 @@ entries:
     - https://github.com/aws/karpenter-provider-aws/
     type: application
     urls:
-    - https://qflowsystems.github.io/qflow-public-helm-charts/charts/karpenter-0.35.1.tgz
+    - charts/karpenter-0.35.1.tgz
     version: 0.35.1
-generated: "2025-08-22T16:09:54.905219-05:00"
+generated: "2025-08-24T10:55:45.708911-05:00"
